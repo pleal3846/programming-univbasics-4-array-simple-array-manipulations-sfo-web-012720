@@ -3,7 +3,6 @@
  end
   def using_unshift
     updated_array.first(new_neighborhood)
-  end
-  def using_size
+  using_size
   updated_array.size
 end

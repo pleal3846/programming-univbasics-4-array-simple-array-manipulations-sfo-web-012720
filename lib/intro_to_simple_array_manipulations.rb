@@ -1,1 +1,1 @@
-colors_in_the_rainbow = 
+colors_in_the_rainbow = next_color.puch
